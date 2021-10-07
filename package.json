@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aesbetancourt/urban-invention/issues"
   },
-  "homepage": "https://github.com/aesbetancourt/urban-invention#readme"
+  "homepage": "https://github.com/aesbetancourt/urban-invention#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }

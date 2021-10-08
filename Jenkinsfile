@@ -1,7 +1,7 @@
 pipeline {
     agent any
     tools {
-        nodejs '14.18.0'
+        nodejs '14.x'
     }
 
     options {
